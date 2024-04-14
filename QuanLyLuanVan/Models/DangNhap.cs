@@ -20,7 +20,7 @@ namespace Models
             this.GiangViens = new HashSet<GiangVien>();
             this.SinhViens = new HashSet<SinhVien>();
         }
-    
+        
         public string TaiKhoan { get; set; }
         public string MatKhau { get; set; }
     
