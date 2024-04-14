@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="510f49ff94dd473ca661d3d190172bf7" Name="Diagram1" >
+        <EntityTypeShape EntityType="DBLuanVanModel.DangNhap" Width="1.5" PointX="0.75" PointY="2.375" />
+        <EntityTypeShape EntityType="DBLuanVanModel.GiangVien" Width="1.5" PointX="3" PointY="3.75" />
+        <EntityTypeShape EntityType="DBLuanVanModel.SinhVien" Width="1.5" PointX="3" PointY="1" />
+        <AssociationConnector Association="DBLuanVanModel.FK__GiangVien__TaiKh__3B75D760" />
+        <AssociationConnector Association="DBLuanVanModel.FK__SinhVien__TaiKho__38996AB5" />
+        <EntityTypeShape EntityType="DBLuanVanModel.LuanVan" Width="1.5" PointX="5.25" PointY="3.125" />
+        <AssociationConnector Association="DBLuanVanModel.FK__LuanVan__MaGV__49C3F6B7" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

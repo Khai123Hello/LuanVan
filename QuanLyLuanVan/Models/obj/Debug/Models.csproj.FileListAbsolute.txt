@@ -1,0 +1,14 @@
+D:\gopNhanh\LuanVan\QuanLyLuanVan\Models\bin\Debug\DBLuanVan.mdf
+D:\gopNhanh\LuanVan\QuanLyLuanVan\Models\bin\Debug\DBLuanVan_log.ldf
+D:\gopNhanh\LuanVan\QuanLyLuanVan\Models\bin\Debug\Models.dll.config
+D:\gopNhanh\LuanVan\QuanLyLuanVan\Models\bin\Debug\Models.dll
+D:\gopNhanh\LuanVan\QuanLyLuanVan\Models\bin\Debug\Models.pdb
+D:\gopNhanh\LuanVan\QuanLyLuanVan\Models\bin\Debug\EntityFramework.dll
+D:\gopNhanh\LuanVan\QuanLyLuanVan\Models\bin\Debug\EntityFramework.SqlServer.dll
+D:\gopNhanh\LuanVan\QuanLyLuanVan\Models\bin\Debug\EntityFramework.xml
+D:\gopNhanh\LuanVan\QuanLyLuanVan\Models\bin\Debug\EntityFramework.SqlServer.xml
+D:\gopNhanh\LuanVan\QuanLyLuanVan\Models\obj\Debug\Models.csproj.AssemblyReference.cache
+D:\gopNhanh\LuanVan\QuanLyLuanVan\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+D:\gopNhanh\LuanVan\QuanLyLuanVan\Models\obj\Debug\Models.csproj.Up2Date
+D:\gopNhanh\LuanVan\QuanLyLuanVan\Models\obj\Debug\Models.dll
+D:\gopNhanh\LuanVan\QuanLyLuanVan\Models\obj\Debug\Models.pdb
